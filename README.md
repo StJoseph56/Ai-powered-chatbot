@@ -76,9 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [Python](https://www.python.org/) - The programming language used for developing the chatbot.
 - [Visual Studio Code](https://code.visualstudio.com/) - The code editor used for development and integration.[4][5]
 
-Citations:
-[1] https://github.com/phidatahq/phidata.git
-[2] https://www.youtube.com/watch?v=ZHrPYQ3w2cQ
-[3] https://blog.hubspot.com/website/python-ai-chat-bot
-[4] https://www.gitkraken.com/blog/vs-code-extensions-using-artificial-intelligence
-[5] https://visualstudiomagazine.com/articles/2023/03/08/vs-code-ai-tools.aspx
+
